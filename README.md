@@ -1,25 +1,4 @@
-__________________________________________________________________________________________________________________________________________________________________________________
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="GIF" width="300" height="300" />
-</p>
-
-<br>
-
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=NewtMercado&color=brightgreen" alt="watching_count" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Age-23-blue" />
-<img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Mathematics-brightgreen" />
-<img src="https://img.shields.io/badge/Lives-Colombia-success" />
-<img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen" />
-</p>
-
-<hr>
-
-<h1 align="center">Hola, bienvenid@ mi GitHub <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Newton Mercado</h1>
+<h1 align="center">Hola, bienvenid@ a mi GitHub <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Newton Mercado</h1>
 
 <h3 align="center">
 Mathematics Student | Artificial Intelligence & Machine Learning | Data Science | Web Developer<br>
@@ -27,36 +6,33 @@ Mathematician Researcher | Programming Technician | Professor
 </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/newtonmercadochamorro/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="40" />
-</a>
-<a href="https://github.com/NewtMercado" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" width="40" />
-</a>
-<a href="mailto:newt.mercado@gmail.com">
-  <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/newtonmercadochamorro/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/NewtMercado" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:newt.mercado@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
-<br>
+## About me ....
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-Hola, soy <b>Newton Mercado</b>, un estudiante avanzado de Matemáticas y Desarrollador enfocado en:
-<b>Inteligencia Artificial · Ciencia de Datos · Optimización · Modelado Matemático · Desarrollo Web</b>.
+Hola, soy **Newton Mercado**, un estudiante avanzado de Matemáticas y Desarrollador enfocado en:
+**Inteligencia Artificial · Ciencia de Datos · Optimización · Modelado Matemático · Desarrollo Web**.
 
 Tengo sólidos conocimientos en algoritmia, análisis numérico, programación científica y visualización de datos.
 
 Amo resolver problemas complejos mediante matemáticas y tecnología.
 
 <br><br>
-<b><i>"Las matemáticas no solo resuelven problemas: revelan estructuras ocultas."</i></b>
+**"Las matemáticas no solo resuelven problemas: revelan estructuras ocultas."**
 <br><br>
 
 #### Palabras clave:
 Matemáticas Aplicadas, Python, Machine Learning, Data Science, Desarrollo Web, Algoritmos, Optimización, Estadística.
-# 
-  ```mermaid
+```mermaid
           graph TD;
               Data-Science-->Python;
               Data-Science-->Git;
@@ -72,12 +48,9 @@ Matemáticas Aplicadas, Python, Machine Learning, Data Science, Desarrollo Web, 
               Librerias-->Sklearn;
 
  ```
+## 🚀 TECH STACK
 
-
-# 🚀 TECH STACK
-
-<!-- ===================== LENGUAJES ===================== -->
-<h3>Lenguajes</h3>
+### Lenguajes
 <p align="left">
 <a href="https://www.python.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=light"/></a>
 <a href="https://www.r-project.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=r&theme=light"/></a>
@@ -87,8 +60,7 @@ Matemáticas Aplicadas, Python, Machine Learning, Data Science, Desarrollo Web, 
 <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://go-skill-icons.vercel.app/api/icons?i=css&theme=light"/></a>
 </p>
 
-<!-- ===================== DATA SCIENCE ===================== -->
-<h3>Ciencia de Datos & Machine Learning</h3>
+### Ciencia de Datos & Machine Learning
 <p align="left">
 <a href="https://numpy.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=light"/></a>
 <a href="https://pandas.pydata.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=light"/></a>
@@ -101,8 +73,7 @@ Matemáticas Aplicadas, Python, Machine Learning, Data Science, Desarrollo Web, 
 <a href="https://www.mysql.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=light"/></a>
 </p>
 
-<!-- ===================== MATEMÁTICAS ===================== -->
-<h3>Matemáticas & Computación Científica</h3>
+### Matemáticas & Computación Científica
 <p align="left">
 <a href="https://jupyter.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=light"/></a>
 <a href="https://www.latex-project.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=latex&theme=light"/></a>
@@ -116,32 +87,32 @@ Matemáticas Aplicadas, Python, Machine Learning, Data Science, Desarrollo Web, 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">📌 Modelos de Machine Learning para Predicción</h3>
+<h3 align="center">📌 Predicción de Incumplimiento Crediticio</h3>
 <div align="center">
-<a href="https://github.com/NewtMercado" target="_blank">
-<img src="https://i.imgur.com/u1zQvHP.jpeg" width="400" alt="Predicción con ML">
+<a href="https://github.com/NewtMercado/MachineLearning-Credit-Card-Default-Prediction" target="_blank">
+<img src="https://i.imgur.com/u1zQvHP.jpeg" width="400" alt="Predicción de Crédito">
 </a>
 <p>
-<a href="https://github.com/NewtMercado" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-000?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/NewtMercado/MachineLearning-Credit-Card-Default-Prediction" target="_blank">
+<img src="https://img.shields.io/badge/REPOSITORIO-000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Proyecto orientado a la construcción, validación y despliegue de <strong>modelos de Machine Learning</strong> con Python para escenarios reales, incluyendo clasificación, regresión y análisis estadístico.</p>
+<p>Análisis y modelado predictivo del riesgo de incumplimiento de clientes de tarjetas de crédito usando dataset real de 30,000+ registros. Incluye preprocesamiento, ingeniería de características, modelos supervisados (Regresión Logística, KNN), validación cruzada, balanceo con SMOTE y optimización de hiperparámetros.</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">📊 Análisis de Datos y Visualización Avanzada</h3>
+<h3 align="center">📊 Análisis de Datos de Habitaciones</h3>
 <div align="center">
-<a href="https://github.com/NewtMercado" target="_blank">
-<img src="https://i.imgur.com/mck5g9G.jpeg" width="400" alt="Análisis avanzado">
+<a href="https://github.com/NewtMercado/Proyecto-Data-Science-Habitaciones" target="_blank">
+<img src="https://i.imgur.com/mck5g9G.jpeg" width="400" alt="Análisis de Habitaciones">
 </a>
 <p>
-<a href="https://github.com/NewtMercado" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-0044ff?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/NewtMercado/Proyecto-Data-Science-Habitaciones" target="_blank">
+<img src="https://img.shields.io/badge/REPOSITORIO-0044ff?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Análisis exploratorio, manipulación de datos, dashboards interactivos y visualización con <strong>Python, Pandas, NumPy, Matplotlib, Seaborn y Streamlit</strong>.</p>
+<p>Proyecto completo de Data Science con análisis exploratorio, manipulación de datos, dashboards interactivos y visualización avanzada utilizando Python, Pandas, NumPy, Matplotlib, Seaborn y Streamlit.</p>
 </div>
 </td>
 </tr>
@@ -152,17 +123,17 @@ Matemáticas Aplicadas, Python, Machine Learning, Data Science, Desarrollo Web, 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🧠 Inteligencia Artificial & Aprendizaje Profundo</h3>
+<h3 align="center">🧠 Códigos de Reed-Muller Proyectivos</h3>
 <div align="center">
-<a href="https://github.com/NewtMercado" target="_blank">
-<img src="https://i.imgur.com/KLIn0fc.jpeg" width="400" alt="Deep Learning">
+<a href="https://github.com/NewtMercado/Construyendo-Codigos-de-Reed-Muller-Tipo-Proyectivos-con-Python" target="_blank">
+<img src="https://i.imgur.com/KLIn0fc.jpeg" width="400" alt="Códigos Reed-Muller">
 </a>
 <p>
-<a href="https://github.com/NewtMercado" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-9900ff?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/NewtMercado/Construyendo-Codigos-de-Reed-Muller-Tipo-Proyectivos-con-Python" target="_blank">
+<img src="https://img.shields.io/badge/REPOSITORIO-9900ff?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Implementación de redes neuronales, optimización de hiperparámetros, aprendizaje supervisado y no supervisado con <strong>TensorFlow y Sklearn</strong>.</p>
+<p>Implementación en Python de códigos de Reed-Muller tipo proyectivos, combinando teoría de códigos, álgebra lineal computacional y métodos numéricos para aplicaciones en teoría de la información y criptografía.</p>
 </div>
 </td>
 
@@ -174,21 +145,25 @@ Matemáticas Aplicadas, Python, Machine Learning, Data Science, Desarrollo Web, 
 </a>
 <p>
 <a href="https://github.com/NewtMercado" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-00aa88?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/PROYECTOS-00aa88?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Proyectos basados en <strong>optimización, cálculo variacional, teoría de códigos, álgebra lineal computacional y métodos numéricos</strong>.</p>
+<p>Proyectos basados en optimización, cálculo variacional, teoría de códigos, álgebra lineal computacional y métodos numéricos para resolver problemas matemáticos complejos.</p>
 </div>
 </td>
 </tr>
 </table>
 
+## 📊 Estadísticas GitHub
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&colorLeft=00FF00&colorRight=32CD32" width="1200"/>
+<a href="https://github.com/NewtMercado">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NewtMercado&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NewtMercado&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
+---
 
-Credits: [Newton Mercado](https://github.com/NewtMercado)  
-Last Edited: 2025
-
-__________________________________________________________________________________________________________________________________________________________________________________
+**Credits:** [Newton Mercado](https://github.com/NewtMercado)  
+**Última actualización:** 2025
