@@ -21,14 +21,9 @@ Mathematician Researcher | Programming Technician | Professor
 
 Hola, soy **Newton Mercado**, un estudiante avanzado de Matemáticas y Desarrollador enfocado en:
 **Inteligencia Artificial · Ciencia de Datos · Optimización · Modelado Matemático · Desarrollo Web**.
+Tengo sólidos conocimientos en algoritmia, análisis numérico, programación científica y visualización de datos. Amo resolver problemas complejos mediante matemáticas y tecnología.
 
-Tengo sólidos conocimientos en algoritmia, análisis numérico, programación científica y visualización de datos.
-
-Amo resolver problemas complejos mediante matemáticas y tecnología.
-
-<br><br>
-**"Las matemáticas no solo resuelven problemas: revelan estructuras ocultas."**
-<br><br>
+##### "Las matemáticas no solo resuelven problemas: revelan estructuras ocultas."
 
 #### Palabras clave:
 Matemáticas Aplicadas, Python, Machine Learning, Data Science, Desarrollo Web, Algoritmos, Optimización, Estadística.
